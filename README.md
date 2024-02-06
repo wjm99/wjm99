@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
 <h3 align="center">A Chalmers Master's student from China</h3>
 
-- 🔭 I’m currently working on **MY Thsis Project**
+- 🔭 I’m currently working on **My Thsis Project: Policy Learning and Off-policy Evaluation with Application to the Treatment of Rheumatoid Arthritis**
 
 - 🌱 I’m currently learning **Reinforcement Learning and Data Analysis**
 
