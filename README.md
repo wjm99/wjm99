@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jinming@chalmers.se**
 
-- ⚡ Fun fact **A badminton pro💪.**
+- ⚡ Fun fact **I'm a badminton pro💪.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
