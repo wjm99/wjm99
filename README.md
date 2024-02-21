@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reinforcement Learning and Data Analysis**
 
-- 📫 How to reach me **jinming@chalmers.se**
+- 📫 How to reach me **jinmingw99@gmail.com**
 
 - ⚡ Fun fact **I'm a badminton pro💪.**
 
