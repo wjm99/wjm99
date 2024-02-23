@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jinmingw99@gmail.com**
 
-- ⚡ Fun fact **I'm a badminton pro, currently ranking top 500 on Swedish Women Singles.💪**
+- ⚡ Fun fact **I'm a badminton pro, currently ranking top 500 on Swedish Women Singles💪.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
