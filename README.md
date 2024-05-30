@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
-<h3 align="center">A Chalmers Master's student from China</h3>
+<h3 align="center">A Chalmers Master's student wish to work and stay in Sweden</h3>
 
 - 🔭 I’m currently working on **My Thsis Project: Policy Learning and Off-policy Evaluation with Application to the Treatment of Rheumatoid Arthritis**
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jinmingw99@gmail.com**
 
-- ⚡ Fun fact **I'm a badminton pro, currently ranking top 500 on Swedish Women Singles💪.**
+- 🏸️ Fun fact **I'm also a passionate badminton player, and I play on series and tournments regularly💪.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
