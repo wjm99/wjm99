@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
-<h3 align="center">A Chalmers Master's student wish to work and stay in Sweden</h3>
+<h3 align="center">A Machine Learning Engineer in Sweden</h3>
 
-- 🔭 I’m currently working on **My Thsis Project: Policy Learning and Off-policy Evaluation with Application to the Treatment of Rheumatoid Arthritis**
+- 🔭 I’m currently working on **My Project: AI-powered Chatbot in Twitter**
 
 - 🌱 I’m currently learning **Reinforcement Learning and Data Analysis**
 
