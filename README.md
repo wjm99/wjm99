@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
-<h3 align="center">A Machine Learning Engineer in Sweden</h3>
+<h3 align="center">A Full-stack Developer in Sweden</h3>
 
 - 🔭 I’m currently working on **My Project: AI-powered Chatbot in Twitter**
 
