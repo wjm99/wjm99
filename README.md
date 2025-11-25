@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
 <h3 align="center">A Full-stack Developer in Sweden</h3>
 
-- 🔭 I’m currently working on **My Project: AI-powered Chatbot in Twitter**
+- 🔭 I’m currently working on **My Project: Pin AirPods**
 
-- 🌱 I’m currently learning **Reinforcement Learning and Data Analysis**
+- 🌱 I’m currently reading **Software-Fundamentals of Software Architecture**
 
 - 📫 How to reach me **jinmingw99@gmail.com**
 
