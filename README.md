@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jinming Wei</h1>
 <h3 align="center">A Full-stack Developer in Sweden</h3>
 
+- 🇸🇪 I came to Sweden in 2022 to pursue my Master's in Data Science and AI at **Chalmers**
+
 - 🔭 I’m currently working on **My Project: Pin AirPods**
 
 - 🌱 I’m currently reading **Software-Fundamentals of Software Architecture**
