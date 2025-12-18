@@ -3,7 +3,7 @@
 
 - 🇸🇪 I came to Sweden in 2022 to pursue my Master's in Data Science and AI at **Chalmers**
 
-- 🔭 I’m currently working on **My Project: Pin AirPods**
+- 🔭 My recent project is Glued, a menu bar app that keeps AirPods on Mac when audio is on. You could download here for free https://jinming5.gumroad.com/l/glued
 
 - 🌱 I’m currently reading **Software-Fundamentals of Software Architecture**
 
