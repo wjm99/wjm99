@@ -5,11 +5,9 @@
 
 - 🔭 My recent project is Glued, a menu bar app that keeps AirPods on Mac when audio is on. You could download here for free https://jinming5.gumroad.com/l/glued
 
-- 🌱 I’m currently reading **Software-Fundamentals of Software Architecture**
+- 🏸️ Fun fact **I'm also a passionate badminton player, and I play on series and tournments regularly💪.**
 
 - 📫 How to reach me **jinmingw99@gmail.com**
-
-- 🏸️ Fun fact **I'm also a passionate badminton player, and I play on series and tournments regularly💪.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
