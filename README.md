@@ -3,7 +3,7 @@
 
 - 🇸🇪 I came to Sweden in 2022 to pursue my Master's in Data Science and AI at **Chalmers**
 
-- 🔗 My persona website: https://jinming.vercel.app
+- 🔗 My personal website: https://jinming.vercel.app
 
 - 🔭 My recent project is **[Glued](https://github.com/wjm99/Glued)**, a menu bar app that keeps AirPods on Mac when audio is on.
 
