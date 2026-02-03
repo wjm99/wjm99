@@ -7,6 +7,8 @@
 
 - 🔭 My recent project is **[Glued](https://github.com/wjm99/Glued)**, a menu bar app that keeps AirPods on Mac when audio is on.
 
-- 🏸️ Fun fact, I'm also a passionate badminton player, and I play on series and tournments regularly💪.
+- 🏸️ Fun fact, I'm also a passionate badminton player, and I play on series and tournments regularly💪.  
+👉 **[My badminton record](https://badmintonsweden.tournamentsoftware.com/player-profile/8BDE596E-9E8A-4A2B-BCA2-D3DFFB13E686)**
+
 
 - 📫 How to reach me **jinmingw99@gmail.com**
